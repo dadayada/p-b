@@ -1,0 +1,16 @@
+module.exports = [
+    'src/**.ts',
+    'src/**/__tests__/**',
+    'src/**/**/**.d.ts',
+    'src/**/**/**.styles.**',
+    'src/**/**/**.types.ts',
+    'src/**/**/locales/**.ts',
+    'src/**/**/datalayer/ApiClient.ts',
+    'src/**/**/datalayer/ApiClientMock.ts',
+    'src/**/**/constants/**',
+    'src/**/**/services/i18n.ts',
+    'src/**/**/constants/**',
+    'src/**/**/models/models.init.ts',
+    'src/shared-components/index.ts',
+    'src/shared-components/edit-by-csv/components/FileUpload/FileUploadComponent.tsx',
+];
